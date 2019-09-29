@@ -1,0 +1,2 @@
+senin : Boostrap , GIT
+selasa : SIM
